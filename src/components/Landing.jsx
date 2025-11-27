@@ -15,10 +15,10 @@ const Landing = () => {
               <buton className="btn">Browse Books</buton>
             </a>
           </div>
+          <figure className="header__img--wrapper">
+            <img src={UndrawBooks} alt="" />
+          </figure>
         </div>
-        <figure className="header__img--wrapper">
-          <img src={UndrawBooks} alt="" />
-        </figure>
       </header>
     </section>
   );
