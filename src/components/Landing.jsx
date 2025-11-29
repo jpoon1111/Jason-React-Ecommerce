@@ -12,7 +12,7 @@ const Landing = () => {
               Frind your dream book wih <span className="purple">Library</span>
             </h2>
             <a href="#features">
-              <buton className="btn">Browse Books</buton>
+              <button className="btn">Browse Books</button>
             </a>
           </div>
           <figure className="header__img--wrapper">
