@@ -1,6 +1,6 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Book from './Book'
+import Book from './ui/Book'
 import { books } from '../data';
 
 const Featured = () => {
